@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a MERN Stack Web Developer
+I'm a Self‑Taught MERN Stack Web Developer.
 - 🔭 Working on multiple frontend and backend projects using React and Nodejs
 - 🌱 Learning React in depth
 <br>
