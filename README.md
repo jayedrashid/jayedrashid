@@ -1,7 +1,7 @@
 ### Hello World 👋
 I'm a Self‑Taught React Web Developer.
-- 🔭 Working on multiple frontend and backend projects using React and Nodejs
-- 🌱 Learning MERN Stack in depth
+- 💻  Working on multiple frontend and backend projects using React and Nodejs
+- 📚  Learning MERN Stack in depth
 <br>
 
 ## Connect with Me
