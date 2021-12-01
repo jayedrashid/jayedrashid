@@ -5,7 +5,7 @@ I'm a Self‑Taught React Web Developer.
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=React+Web+Developer;UI/UX+Designer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=React+Developer;UI/UX+Designer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ## Connect with Me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayed-rashid)
