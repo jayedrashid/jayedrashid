@@ -4,6 +4,9 @@ I'm a Self‑Taught React Web Developer.
 - 📚  Learning MERN Stack in depth
 <br>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=React+Web+Developer;UI/UX+Designer;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 ## Connect with Me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayed-rashid)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14040134/worldofjayed)
