@@ -1,13 +1,18 @@
-### Hello World 👋
-I'm a Self‑Taught React Web Developer.
-- 💻  Working on multiple frontend and backend projects using React and Nodejs
-- 📚  Learning MERN Stack in depth
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;UI/UX+Designer;SEO+Expert)](https://git.io/typing-svg)
+
+## About Me 👤
+👉 &nbsp;  &nbsp;I'm a Self‑Taught React Web Developer.<br>
+👉 &nbsp;  &nbsp;An aspiring full stack Web developer.<br>
+👉 &nbsp;  &nbsp;Learning MERN Stack in depth.<br>
+👉 &nbsp;  &nbsp;I am so much obsessed by JavaScript.<br>
+👉 &nbsp;  &nbsp;I deliver Search Engine Optimization (SEO) for webpages<br>
+👉 &nbsp;  &nbsp;Currently working on some projects for my portfolio.<br>
+👉 &nbsp;  &nbsp;Working on multiple frontend and backend projects using React and Nodejs.<br>
+👉 &nbsp;  &nbsp;I write articles in Medium on Web Development and UI/UX Design.<br>
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=React+Developer;UI/UX+Designer;Nice+to+meet+you...)](https://git.io/typing-svg)
-
-## Connect with Me
+## Connect with Me 🔗
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayed-rashid)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14040134/worldofjayed)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jayedrashid)
@@ -16,10 +21,15 @@ I'm a Self‑Taught React Web Developer.
 <!-- [<img align="left" alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/worldofjayed) -->
 <br>
 <br>
+<br>
+
+## My Recent Blog posts ✍️
+📝 &nbsp;  &nbsp;[A Deep Dive in UX Design - Here's How and What I learned](https://thecodingcompany.hashnode.dev/a-deep-dive-in-ux-design-heres-how-and-what-i-learned)<br>
+📝 &nbsp;  &nbsp;[10 FREE Resources To Get Started With Web Development](https://thecodingcompany.hashnode.dev/10-free-resources-to-get-started-with-web-development)<br>
+<br>
 
 
-
-## Area of Concern
+## My Tech Stack ✨
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
