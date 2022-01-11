@@ -24,8 +24,8 @@
 <br>
 
 ## My Recent Blog posts ✍️
-📝 &nbsp;  &nbsp;[A Deep Dive in UX Design - Here's How and What I learned](https://thecodingcompany.hashnode.dev/a-deep-dive-in-ux-design-heres-how-and-what-i-learned)<br>
-📝 &nbsp;  &nbsp;[10 FREE Resources To Get Started With Web Development](https://thecodingcompany.hashnode.dev/10-free-resources-to-get-started-with-web-development)<br>
+📝 &nbsp;  &nbsp;[Blind Artist: A Creativity Beyond Imagination](https://medium.com/@jayedrashid/blind-artist-a-creativity-beyond-imagination-de3340c50ad5)<br>
+📝 &nbsp;  &nbsp;[BooooM!!! Happy New Year 2022!!](https://medium.com/@jayedrashid/boooom-happy-new-year-2022-3ade36c1589c)<br>
 <br>
 
 
