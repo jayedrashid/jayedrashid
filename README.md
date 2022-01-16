@@ -5,9 +5,9 @@
 👉 &nbsp;  &nbsp;An aspiring Full Stack Developer.<br>
 👉 &nbsp;  &nbsp;Learning MERN Stack in depth.<br>
 👉 &nbsp;  &nbsp;I am pretty obsessed by JavaScript.<br>
-👉 &nbsp;  &nbsp;I deliver Search Engine Optimization (SEO) for webpages<br>
+👉 &nbsp;  &nbsp;I deliver Search Engine Optimization (SEO) for webpages.<br>
 👉 &nbsp;  &nbsp;Currently working on some projects for my portfolio.<br>
-👉 &nbsp;  &nbsp;Working on multiple frontend and backend projects using React and Nodejs.<br>
+👉 &nbsp;  &nbsp;Working on multiple Front-End & Back-End projects using React and Nodejs.<br>
 👉 &nbsp;  &nbsp;I write articles in Medium on Web Development and UI/UX Design.<br>
 <br>
 
