@@ -2,9 +2,9 @@
 
 ## About Me 👤
 👉 &nbsp;  &nbsp;I'm a Self‑Taught React Developer.<br>
-👉 &nbsp;  &nbsp;An aspiring full stack Web developer.<br>
+👉 &nbsp;  &nbsp;An aspiring Full Stack Developer.<br>
 👉 &nbsp;  &nbsp;Learning MERN Stack in depth.<br>
-👉 &nbsp;  &nbsp;I am so much obsessed by JavaScript.<br>
+👉 &nbsp;  &nbsp;I am pretty obsessed by JavaScript.<br>
 👉 &nbsp;  &nbsp;I deliver Search Engine Optimization (SEO) for webpages<br>
 👉 &nbsp;  &nbsp;Currently working on some projects for my portfolio.<br>
 👉 &nbsp;  &nbsp;Working on multiple frontend and backend projects using React and Nodejs.<br>
