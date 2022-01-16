@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;UI/UX+Designer;SEO+Expert)](https://git.io/typing-svg)
 
 ## About Me 👤
-👉 &nbsp;  &nbsp;I'm a Self‑Taught React Web Developer.<br>
+👉 &nbsp;  &nbsp;I'm a Self‑Taught React Developer.<br>
 👉 &nbsp;  &nbsp;An aspiring full stack Web developer.<br>
 👉 &nbsp;  &nbsp;Learning MERN Stack in depth.<br>
 👉 &nbsp;  &nbsp;I am so much obsessed by JavaScript.<br>
