@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;UI/UX+Designer;SEO+Expert)](https://git.io/typing-svg)
 
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Happy Programmers Day GIFs - Get the best GIF on GIPHY" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 450px; height: 337.5px; margin: 0px;">
+
 ## About Me 👤
 👉 &nbsp;  &nbsp;I'm a Self‑Taught React Developer.<br>
 👉 &nbsp;  &nbsp;An aspiring Full Stack Developer.<br>
