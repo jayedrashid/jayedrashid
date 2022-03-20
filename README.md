@@ -13,6 +13,11 @@
 👉 &nbsp;  &nbsp;I write articles in Medium on Web Development and UI/UX Design.<br>
 <br>
 
+## Certifications & Achievements 📜
+🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br>
+🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by The University of California, Davis](https://lnkd.in/gNRJrYVD)<br>
+🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br>
+<br>
 
 ## Connect with Me 🔗
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayed-rashid)
