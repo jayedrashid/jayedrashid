@@ -14,9 +14,9 @@
 <br>
 
 ## Certifications & Achievements 📜
-🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br>
+<!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
 🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by The University of California, Davis](https://lnkd.in/gNRJrYVD)<br>
-🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br>
+<!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
 <br>
 
 ## Connect with Me 🔗
