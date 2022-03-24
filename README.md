@@ -15,6 +15,7 @@
 
 ## Certifications & Achievements 📜
 <img align="left" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+<br>
 <!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
 🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by The University of California, Davis](https://lnkd.in/gNRJrYVD)<br>
 <!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
