@@ -15,8 +15,8 @@
 
 ## Certifications & Achievements 📜
 <!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
-🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by The University of California, Davis](https://lnkd.in/gNRJrYVD)<br>
-<!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
+🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/XG2MMHEQPGKX)<br>
+🏆 &nbsp;  &nbsp;[Google SEO Fundamentals offered by The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br>
 <br>
 
 ## Connect with Me 🔗
@@ -37,7 +37,7 @@
 <br>
 
 
-## My Recent Blog posts ✍️
+## Blog Posts ✍️
 🖊️ &nbsp;  &nbsp;[Blind Artist: A Creativity Beyond Imagination](https://medium.com/@jayedrashid/blind-artist-a-creativity-beyond-imagination-de3340c50ad5)<br>
 🖊️ &nbsp;  &nbsp;[BooooM!!! Happy New Year 2022!!](https://medium.com/@jayedrashid/boooom-happy-new-year-2022-3ade36c1589c)<br>
 <br>
