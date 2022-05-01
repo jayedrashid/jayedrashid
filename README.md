@@ -14,9 +14,9 @@
 <br>
 
 ## Certifications & Achievements 📜
-<!-- 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by The Johns Hopkins University](https://lnkd.in/gNRJrYVD)<br> -->
-🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/XG2MMHEQPGKX)<br>
-🏆 &nbsp;  &nbsp;[Google SEO Fundamentals offered by The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br>
+🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by Coursera from The Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/G5L6DLN5DRGE)<br>
+🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/XG2MMHEQPGKX)<br>
+🏆 &nbsp;  &nbsp;[Google SEO Fundamentals offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br>
 <br>
 
 ## Connect with Me 🔗
