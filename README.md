@@ -1,4 +1,5 @@
-<img height="100" align="left" src="https://raw.githubusercontent.com/jayedrashid/necessary_cloud_files/main/jayedrashid-avatar.png">
+<img height="100" align="right" src="https://raw.githubusercontent.com/jayedrashid/necessary_cloud_files/main/jayedrashid-avatar.png">
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;Web+Designer;SEO+Expert)](https://git.io/typing-svg)
 
