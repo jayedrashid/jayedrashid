@@ -10,16 +10,17 @@
 👉 &nbsp;  &nbsp;An aspiring Full Stack Developer.<br>
 👉 &nbsp;  &nbsp;Learning MERN Stack in depth.<br>
 👉 &nbsp;  &nbsp;I am pretty obsessed by JavaScript.<br>
-👉 &nbsp;  &nbsp;I deliver Search Engine Optimization (SEO) for webpages.<br>
-👉 &nbsp;  &nbsp;Currently working on some projects for my portfolio.<br>
+👉 &nbsp;  &nbsp;I deliver bug fixing & banner designing for webpages.<br>
+👉 &nbsp;  &nbsp;I design & develop chrome extentions for browser.<br>
 👉 &nbsp;  &nbsp;Working on multiple Front-End & Back-End projects using React and Nodejs.<br>
-👉 &nbsp;  &nbsp;I write articles in Medium on Web Development and UI/UX Design.<br>
+👉 &nbsp;  &nbsp;I write articles in Medium on Web Technologies and beyond.<br>
 <br>
 
 ## Certifications & Achievements 📜
 🏆 &nbsp;  &nbsp;[HTML, CSS, and Javascript for Web Developers offered by Coursera from The Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/G5L6DLN5DRGE)<br>
 🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/XG2MMHEQPGKX)<br>
 🏆 &nbsp;  &nbsp;[Google SEO Fundamentals offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br>
+🏆 &nbsp;  &nbsp;[Adobe Photoshop CC – Essentials Training Course by Instructor Daniel Walter Scott from Udemy](https://www.udemy.com/certificate/UC-4ad6b550-5103-4aaa-94fc-b51a766a39e7/)<br>
 <!-- 🏆 &nbsp;  &nbsp;[Optimizing a Website for Google Search offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br> -->
 <br>
 
