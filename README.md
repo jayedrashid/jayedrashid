@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jayed-rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayed rashid" height="20" width="30" /></a>
 <a href="https://twitter.com/jayedrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayed rashid" height="20" width="30" /></a>
-<a href="https://www.facebook.com/jayed.rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayed rashid" height="20" width="30" /></a>
+<a href="https://www.facebook.com/jayedrashidweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayed rashid" height="20" width="30" /></a>
 <a href="https://www.instagram.com/jayedrashid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayed rashid" height="20" width="30" /></a>
 <a href="https://jayedrashid.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/worldofjayed/necessary_cloud_files/main/jayedrashid.png" alt="jayed rashid webpage" height="auto" width="20" style="border-radius:50%" /></a>
 </p>
