@@ -10,7 +10,7 @@
 👉 &nbsp;  &nbsp;MERN Stack enthusiast.<br>
 👉 &nbsp;  &nbsp;Photoshop Banner Designer.<br>
 👉 &nbsp;  &nbsp;Deliver bug fixing for webpages.<br>
-👉 &nbsp;  &nbsp;Design & develop chrome extentions for browser.<br>
+👉 &nbsp;  &nbsp;Design & develop chrome extensions for Google Chrome Browser.<br>
 👉 &nbsp;  &nbsp;Working on multiple Front-End & Back-End projects using React and Nodejs.<br>
 👉 &nbsp;  &nbsp;Write articles in Medium on Web Technologies and beyond.<br>
 <br>
