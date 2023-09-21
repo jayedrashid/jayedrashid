@@ -7,12 +7,13 @@
 
 ## About Me 👤
 👉 &nbsp;  &nbsp;Self‑Taught Front-end Developer.<br>
-👉 &nbsp;  &nbsp;MERN Stack enthusiast.<br>
-👉 &nbsp;  &nbsp;Photoshop Banner Designer.<br>
-👉 &nbsp;  &nbsp;Deliver bug fixing for webpages.<br>
+👉 &nbsp;  &nbsp;MERN Stack Developer.<br>
+👉 &nbsp;  &nbsp;Photoshop Designer.<br>
+👉 &nbsp;  &nbsp;Design & develop webpages using React.js and Next.js.<br>
 👉 &nbsp;  &nbsp;Design & develop chrome extensions for Google Chrome Browser.<br>
-👉 &nbsp;  &nbsp;Working on multiple Front-End & Back-End projects using React and Nodejs.<br>
-👉 &nbsp;  &nbsp;Write articles in Medium on Web Technologies and beyond.<br>
+👉 &nbsp;  &nbsp;Design & develop Rest API for Server Side.<br>
+👉 &nbsp;  &nbsp;Write articles on Medium about Web Technologies and beyond.<br>
+👉 &nbsp;  &nbsp;Write blog articles about Web Technologies on my official webpage.<br>
 <br>
 
 ## Certifications & Achievements 📜
@@ -20,6 +21,7 @@
 🏆 &nbsp;  &nbsp;[Introduction to Google SEO offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/XG2MMHEQPGKX)<br>
 🏆 &nbsp;  &nbsp;[Google SEO Fundamentals offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br>
 🏆 &nbsp;  &nbsp;[Adobe Photoshop CC – Essentials Training Course by Instructor Daniel Walter Scott from Udemy](https://www.udemy.com/certificate/UC-4ad6b550-5103-4aaa-94fc-b51a766a39e7/)<br>
+🏆 &nbsp;  &nbsp;[Foundations of Digital Marketing and E-commerce offered by Coursera from Google Career Certificates](https://www.coursera.org/account/accomplishments/certificate/GNADF9CLL8L4)<br>
 <!-- 🏆 &nbsp;  &nbsp;[Optimizing a Website for Google Search offered by Coursera from The University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/7QKCNQRT3RNT)<br> -->
 <br>
 
@@ -51,7 +53,7 @@
 <img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 <img align="left" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img align="left" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+<!-- <img align="left" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> -->
 <br>
 <br>
 
@@ -67,8 +69,8 @@
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-<img align="left" alt="Threejs" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+<!-- <img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> -->
+<!-- <img align="left" alt="Threejs" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" /> -->
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -76,7 +78,7 @@
 <img align="left" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="left" alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white?" />
 <!-- <img align="left" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
-<!-- <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /> -->
+<img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img align="left" alt="chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 <img align="left" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="left" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
