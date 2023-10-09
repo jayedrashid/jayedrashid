@@ -9,7 +9,7 @@
 👉 &nbsp;  &nbsp;Self‑Taught Front-end Developer.<br>
 👉 &nbsp;  &nbsp;MERN Stack Developer.<br>
 👉 &nbsp;  &nbsp;Photoshop Designer.<br>
-👉 &nbsp;  &nbsp;Design & develop webpages using React.js and Next.js.<br>
+👉 &nbsp;  &nbsp;Design & develop webpages using React.js, Next.js. and Database.<br>
 👉 &nbsp;  &nbsp;Design & develop chrome extensions for Google Chrome Browser.<br>
 👉 &nbsp;  &nbsp;Design & develop Rest API for Server Side.<br>
 👉 &nbsp;  &nbsp;Write articles on Medium about Web Technologies and beyond.<br>
