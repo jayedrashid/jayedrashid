@@ -1,4 +1,4 @@
-<img height="100" align="left" src="https://raw.githubusercontent.com/jayedrashid/necessary_cloud_files/main/Profile%20picture%20of%20Jayed%20Rashid.jpg">
+<img height="100" align="left" width="full" border="white" src="https://raw.githubusercontent.com/jayedrashid/necessary_cloud_files/main/Profile%20picture%20of%20Jayed%20Rashid.jpg">
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;Web+Designer;Photoshop+Designer)](https://git.io/typing-svg)
@@ -15,10 +15,8 @@
 👉 &nbsp;  &nbsp;Write blog articles about Web Technologies on my official webpage.<br>
 <br>
 
-<div>
-  <samp>
-  <h3>My Tech Stack ✨</h3>
-  </samp>
+
+## My Tech Stack ✨
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -29,13 +27,10 @@
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<!-- <img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> -->
-<!-- <img align="left" alt="Threejs" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" /> -->
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<!-- <img align="left" alt="socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /> -->
-</div>
+<br>
 
 
 ## Certifications & Achievements 📜
