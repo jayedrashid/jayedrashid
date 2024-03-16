@@ -1,9 +1,9 @@
-<img height="100" align="left" src="https://raw.githubusercontent.com/jayedrashid/necessary_cloud_files/main/jayedrashid-avatar.png">
+<img height="100" align="left" src="https://raw.githubusercontent.com/jayedrashid/necessary_cloud_files/main/Profile%20picture%20of%20Jayed%20Rashid.jpg">
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;Web+Designer;Photoshop+Designer)](https://git.io/typing-svg)
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="571" height="428">
+<!-- <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="571" height="428"> -->
 
 ## About Me 👤
 👉 &nbsp;  &nbsp;Self‑Taught Front-end Developer.<br>
