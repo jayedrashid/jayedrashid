@@ -8,9 +8,8 @@
 ## About Me 👤
 👉 &nbsp;  &nbsp;Self‑Taught Front-end Developer.<br>
 👉 &nbsp;  &nbsp;MERN Stack Developer.<br>
-👉 &nbsp;  &nbsp;Photoshop, Midjourney expert.<br>
-👉 &nbsp;  &nbsp;Design & develop webpages using React.js, Next.js. and Database.<br>
-👉 &nbsp;  &nbsp;Design & develop chrome extensions for Google Chrome Browser.<br>
+👉 &nbsp;  &nbsp;Photoshop design, Midjourney prompts expert.<br>
+👉 &nbsp;  &nbsp;Design & develop webapps using JavaScript framework and Database.<br>
 👉 &nbsp;  &nbsp;Design & develop Rest API for Server Side.<br>
 👉 &nbsp;  &nbsp;Write articles on Medium about Web Technologies and beyond.<br>
 👉 &nbsp;  &nbsp;Write blog articles about Web Technologies on my official webpage.<br>
